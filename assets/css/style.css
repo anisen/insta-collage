@@ -125,13 +125,13 @@
 }
 .cajas-chicas{
 	height: 220px;
-	background-color: red;
+	background-color: #5C5C5C;
 	margin-top: 20px;
 }
 .caja-grande{
 	height: 460px;
 	margin-top: 20px;
-	background-color: purple;
+	background-color: #5C5C5C;
 	margin: 20px;
 	margin-right: 20px;
 }
