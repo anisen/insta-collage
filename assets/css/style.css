@@ -112,9 +112,10 @@
 	font-size: 30px;
 	color: blue;
 	text-align: center;
+	margin-top: 20px;
 }
 #cajas{
-	height: 500px;
+	height: 550px;
 	background-color: white;
 }
 .cajas-chicas{
@@ -130,6 +131,6 @@
 	margin-right: 20px;
 }
 .imagenes{
-	height: 250px;
+	height: 220px;
 	margin-top: 20px;
 }
