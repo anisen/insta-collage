@@ -108,9 +108,10 @@
    background-color: #25262a;
    height: 50px;
 }
-#booth h2{
-	font-size: 20px;
+#booth p{
+	font-size: 30px;
 	color: blue;
+	text-align: center;
 }
 #cajas{
 	height: 500px;
@@ -129,6 +130,6 @@
 	margin-right: 20px;
 }
 .imagenes{
-	height: 200px;
+	height: 250px;
 	margin-top: 20px;
 }
